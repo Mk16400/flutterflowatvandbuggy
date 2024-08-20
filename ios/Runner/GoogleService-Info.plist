@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>755949396350-ipjbt0oedo9c3mg3p34f0ll7t9ijsvsf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.755949396350-ipjbt0oedo9c3mg3p34f0ll7t9ijsvsf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>755949396350-0bp7k0m8lfrq9un5dkedgc721u34ja61.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDn5Czem6t1O_Lqd3RJnadLQ-yS2_BeWF0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>755949396350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.atvandbuggyclonehassan</string>
+	<key>PROJECT_ID</key>
+	<string>atvandbuggy-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>atvandbuggy-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:755949396350:ios:6e31277dbc60cd0416d32f</string>
+	<key>DATABASE_URL</key>
+	<string>https://atvandbuggy-dev-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
